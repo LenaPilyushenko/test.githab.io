@@ -108,10 +108,19 @@ a:focus {
     outline: 0;
     box-shadow: none;
 }
-
 .fixed-menu .navbar-nav li.nav-item .nav-link {
 	display:none; 
 }
 .fixed-menu .dropdown-item.dropdown-toggle {
 	display:none; 
+}
+.button {
+	background: #208AC9;
+	color:#fff;
+	text-decoration:none;
+}
+.button:hover {
+	background: #000;
+	color:#fff;
+	text-decoration:none;
 }
